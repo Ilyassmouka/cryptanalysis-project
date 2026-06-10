@@ -19,4 +19,3 @@ This project was created for educational purposes to understand:
 
 ## Technologies
 - Python
-- Matplotlib
